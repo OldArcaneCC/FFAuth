@@ -1,7 +1,7 @@
 {
   "customer_name": "John Doe",
   "customer_email": "john@example.com",
-  "purchase_name": "Product XYZ",
+  "purchase_name": "ENTERPRISE",
   "purchase_active": 1,
   "purchase_expire": 1672531200000
 }
